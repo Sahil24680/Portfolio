@@ -1,0 +1,16 @@
+body{
+    background-image: url("https://www.icegif.com/wp-content/uploads/2023/10/icegif-374.gif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+
+.w{
+    font-size: 40px;
+    color: white;
+    text-align: center;
+    position: relative;
+    bottom:-300px;
+}

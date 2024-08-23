@@ -1,0 +1,152 @@
+body{
+    background-image: url("https://giffiles.alphacoders.com/220/220234.gif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+p{
+    color: white; 
+    font-size: 17px; 
+}
+
+.me{
+    padding-left: 10px;
+    padding-top: 10px;
+    
+    
+}
+.me-icon {
+    display: inline-block;
+    transition: transform 0.3s, color 0.3s; /* Smooth transition for transform and color changes */
+    cursor: pointer;
+}
+.me-icon:hover {
+    transform: scale(1.2); /* Scale up the icon on hover */
+    color: lightgray; /* Change color on hover (Note: SVG color will be controlled via fill attribute) */
+}
+
+
+
+.icon-me{
+    margin-top: 1px;
+    margin-right: 5px;
+    padding-bottom: 10px;
+}
+
+.work-exp{
+    height: 65px;
+    width: 65px;
+}
+
+
+.work-exp:hover {
+    transform: scale(1.2); 
+    color: lightgray; 
+    cursor: pointer;
+}
+
+.work-exp-data{
+    position: relative;
+    top: -15px;
+    padding-bottom: 10px;
+    
+}
+
+
+
+
+.project{
+    height: 65px;
+    width: 65px;
+    padding-left: 1px;
+}
+
+.project:hover {
+    transform: scale(1.1); 
+    color: lightgray; 
+    cursor: pointer;
+}
+
+
+
+.project-data{
+    position: relative;
+    top: -20px;
+    padding-bottom: 10px;
+    position: relative;
+    right: -5px;
+}
+
+
+
+
+.linkden-icon{
+    height: 50px;
+    width: 50px;
+    padding-left: 2px;
+    
+    
+
+}
+
+.linkden-icon:hover {
+    transform: scale(1.2); 
+    color: lightgray; 
+    cursor: pointer;
+
+    
+}
+
+.r{
+    height: 50px;
+    width: 50px;
+    padding-left: 2px;
+    filter: invert(1) brightness(100%);
+    
+
+}
+
+.resume{
+    position: relative;
+    top: -17px;
+    
+    right: -5px;
+}
+
+.r:hover {
+    transform: scale(1.4); 
+    color: lightgray; 
+    cursor: pointer;
+}
+
+
+
+.l{
+    position: relative;
+    top: -15px;
+    padding-bottom: 10px;
+    
+}
+
+
+.github{
+    height: 50px;
+    width: 50px;
+    padding-left: 2px;
+    filter: invert(1) brightness(100%);
+}
+
+
+.github:hover {
+    transform: scale(1.2); 
+    color: lightgray; 
+    cursor: pointer;
+}
+
+
+.g{
+    position: relative;
+    top:-12px;
+}

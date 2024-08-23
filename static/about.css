@@ -1,0 +1,219 @@
+body{
+    background-color: rgb(102, 102, 102);
+}
+
+p{
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+.pfp {
+    width: 250px;
+    height: 250px; 
+    border: 1px solid #000; 
+    border-radius: 10px; 
+    overflow: hidden; 
+    display: flex;
+    align-items: center; 
+    position: relative; 
+    left: 200px;
+    
+    
+}
+
+
+.pfp img {
+    width: 100%; 
+    height: auto; 
+}
+
+
+.text {
+    font-size: 18px; 
+    line-height: 1.6; 
+    max-width: 600px; 
+    position: relative; /* Allows positioning with top */
+    top: -250px; /* Moves the text up */
+    left: 500px
+    
+    
+}
+
+
+.skills{
+    font-size: 25px;
+    text-align: center;
+    position: relative; 
+    top: -180px;
+}
+
+
+
+.python{
+    width: 75px;
+    height: 75px;
+    padding-left: 50px;
+    padding-right: 10px;
+    
+}
+
+
+.icon-python{
+    padding-left: 50px;
+    position: relative; 
+    top: -150px;
+    right: -15px;
+
+}
+
+.c{
+    width: 70px;
+    height: 70px;
+    padding-left: 50px;
+    padding-right: 10px;
+    position: relative; 
+    
+
+}
+.icon-c{
+    padding-left: 50px;
+    
+    position: relative; 
+    top: -270px;
+    right: -113px;
+
+}
+
+
+.django-size{
+    width: 125px;
+    height: 125px;
+    padding-left: 50px;
+    padding-right: 10px;
+    position: relative; 
+    bottom: -30px;
+    
+    
+
+}
+
+
+.skill-icons {
+    position: relative; 
+    top: -225px;
+    right:-25px;
+}
+.rest{
+    width: 125px;
+    height: 125px;
+    padding-left: 25px;
+    padding-right: 10px;
+    position: relative; 
+    bottom: -30px;
+    
+}
+
+.cloud{
+    width: 75px;
+    height: 75px;
+    padding-left: 25px;
+    padding-right: 10px;
+    
+}
+.aws{
+    width: 90px;
+    height: 90px;
+    padding-left: 25px;
+    padding-right: 10px;
+    position: relative; 
+    bottom: -10px;
+    
+    
+}
+
+.mysql{
+    width: 150px;
+    height: 150px;
+    padding-left: 25px;
+    padding-right: 10px;
+    position: relative; 
+    bottom: -15px;
+    
+}
+
+
+.sql-lite{
+    width: 130px;
+    height: 130px;
+    padding-left: 25px;
+    padding-right: 10px;
+    position: relative; 
+    bottom: -20px;
+    
+}
+
+.html{
+    width: 75px;
+    height: 75px;
+    padding-left: 25px;
+    padding-right: 10px;
+    position: relative; 
+    top:-5px
+}
+
+
+
+
+
+
+.css{
+    width: 85px;
+    height: 85px;
+    padding-left: 25px;
+    padding-right: 10px;
+    position: relative; 
+    top:-5px
+}
+
+
+.icons2{
+    padding-left: 50px;
+    position: relative; 
+    top: -200px;
+    
+
+
+}
+
+
+.git{
+    width: 80px;
+    height: 80px;
+    padding-left: 25px;
+    padding-right: 10px;
+    position: relative; 
+    
+}
+
+.docker{
+    width: 90px;
+    height: 90px;
+    padding-left: 25px;
+    padding-right: 10px;
+    position: relative; 
+    right: -20px;
+}
+
+
+
+
+
+
+
